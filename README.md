@@ -32,19 +32,7 @@ Learn and recognize common problem-solving patterns
 Practice consistently
 Prepare for technical interviews
 Track my coding progress
-📂 Repository Structure
-DSA-Problem-Solving/
-│
-├── Arrays/
-├── Strings/
-├── Hashing/
-├── Binary-Search/
-├── Linked-List/
-├── Stack-Queue/
-├── Trees/
-├── Graphs/
-├── Dynamic-Programming/
-└── README.md
+
 📈 Progress
 
 I will continuously update this repository as I solve new problems and learn new concepts.
